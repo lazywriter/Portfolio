@@ -33,7 +33,9 @@ function AboutMe() {
       <div className="cards">
         <h2>Contact Details :</h2>
         <ul>
-          <li>Email Address : yash.w.thakur@gmail.com</li>
+          <li>
+            <a href="mailto:yash.w.thakur@gmail.com">yash.w.thakur@gmail.com</a>
+          </li>
           <li>
             Instagram :{" "}
             <a href="https://www.instagram.com/yash_w_thakur/">
